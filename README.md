@@ -10,7 +10,7 @@
 
 
 
-#### 문제1] Emp class 만들어서 <---- emp.txt 파일로 저장  <배점 30점>
+#### <u>문제1] Emp class 만들어서 <---- emp.txt 파일로 저장  <배점 30점></u>
 
    이름, 연락처, 부서, 직급, 급여 멤버 변수를 갖고 있고,
 
@@ -26,7 +26,7 @@
 
 
 
-#### 문제2] 스레드, 컬렉션, IO 이용해서 멀티 채팅 프로그램 만들기 <배점 40점>
+#### <u>문제2] 스레드, 컬렉션, IO 이용해서 멀티 채팅 프로그램 만들기 <배점 40점></u>
 
 UI 화면 없어도 됨.
 
@@ -36,7 +36,7 @@ UI 화면 없어도 됨.
 
 
 
-#### 문제3] Customer class ( ArrayList or Vector 이용 ) <배점 30점>
+#### <u>문제3] Customer class ( ArrayList or Vector 이용 ) <배점 30점></u>
 
   no, name, address, phoneNumber field 
 
